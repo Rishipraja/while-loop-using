@@ -1,0 +1,7 @@
+i=1
+j=int(input("Enter the any numbers = "))
+while i<=10:
+    print(i*j)
+    i=i+1
+print("print table of any numbers")
+print("\n RISHI PRAJAPATI")
